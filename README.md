@@ -1,10 +1,10 @@
-#### MAKE SURE YOU HAVE GIT INSTALLED ON YOUR MACHINE
+#### Make sure you have git installed on your machine
 
 
 sudo apt install git
 
 
-### MAKE SURE TO SET YOUR USERNAME AND EMAIL ADDRESS IN THE GIT CONFIG FILE, RUN THE FOLLOWING
+#### Make sure to set your username and email in the git config file, run the following
 
 
 git config --global user.name "username"
@@ -12,32 +12,32 @@ git config --global user.email "user@email.com"
 
 
 
-### TO GET A RESPOSITORY FROM REMOTE RO LOCAL, EXECUTE THE FOLLOWING COMMAND
-### MAKE SURE YOU ARE IN THE CURRENT DIRECTORY
+#### To get a repository from remote to local
+#### Make sure you are in the current directory
 
 
 git clone https://www.github.com/ninashenoy/test.git
 
 
-### AFTER THE COMMAND EXECUTES, YOU WILL HAVE A FOLDER IN PWD CALLED "test"
+#### After the command executes, you will have a folder in pwd called "test"
 
 
 
-### TO CHECK THE STATUS OF FILES, RUN THE FOLLOWING COMMAND
+#### To check the status of files, run the following command
 
 
 git status
 
 
 
-### TO COMMIT CHANGES, RUN THE FOLLOWING COMMAND
+#### To commit changes, run the following command
 
 
 git commit -am "your comments"
 
 
 
-### TO PUSH YOUR LOCAL CHANGES TO REMOTE, RUN THE FOLLOWING COMMAND
+#### To push your local changes to remote, run the following command
 
 
 git push origin
