@@ -1,24 +1,32 @@
-## make sure you have git installed on your machine
+## MAKE SURE YOU HAVE GIT INSTALLED ON YOUR MACHINE
 sudo apt install git
 
-## make sure to set your username and email address in the git config file, run follwing:
+
+## MAKE SURE TO SET YOUR USERNAME AND EMAIL ADDRESS IN THE GIT CONFIG FILE, RUN THE FOLLOWING
 git config --global user.name "username"
 git config --global user.email "user@email.com"
 
 
 
-## added comments from laptop
-## to get a repository from remote to local, execute the following command:
-## make sure you are in the correct directory
+## TO GET A RESPOSITORY FROM REMOTE RO LOCAL, EXECUTE THE FOLLOWING COMMAND
+## MAKE SURE YOU ARE IN THE CURRENT DIRECTORY
 git clone https://www.github.com/ninashenoy/test.git
-## after the command executes, you will have a folder in pwd called "test"
+## AFTER THE COMMAND EXECUTES, YOU WILL HAVE A FOLDER IN PWD CALLED "test"
 
-## to check the status of files, run the following command:
+
+
+## TO CHECK THE STATUS OF FILES, RUN THE FOLLOWING COMMAND
 git status
 
-## to commit changes, run the following command:
+
+
+## TO COMMIT CHANGES, RUN THE FOLLOWING COMMAND
 git commit -am "your comments"
 
-## to push your local changes to remote, run the following command:
+
+
+## TO PUSH YOUR LOCAL CHANGES TO REMOTE, RUN THE FOLLOWING COMMAND
 git push origin
+
+
 repository used to learn git. testing git
