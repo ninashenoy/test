@@ -1,4 +1,4 @@
-# make sure you have git installed on your machine
+## make sure you have git installed on your machine
 sudo apt install git
 
 # make sure to set your username and email address in the git config file, run follwing:
