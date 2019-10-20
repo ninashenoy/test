@@ -4,16 +4,17 @@
 sudo apt install git
 
 
-#### Make sure to set your username and email in the git config file, run the following
+#### Make sure to set your username and email in the git config file
 
 
 git config --global user.name "username"
+
 git config --global user.email "user@email.com"
 
 
 
 #### To get a repository from remote to local
-#### Make sure you are in the current directory
+this will create a directory in pwd called "test"
 
 
 git clone https://www.github.com/ninashenoy/test.git
@@ -23,24 +24,23 @@ git clone https://www.github.com/ninashenoy/test.git
 
 
 
-#### To check the status of files, run the following command
+#### To check the status of files
 
 
 git status
 
 
 
-#### To commit changes, run the following command
+#### To commit changes
 
 
 git commit -am "your comments"
 
 
 
-#### To push your local changes to remote, run the following command
+#### To push your local changes to remote
 
 
 git push origin
 
 
-repository used to learn git. testing git
