@@ -13,7 +13,7 @@ git config --global user.email "user@email.com"
 
 
 
-#### To get a repository from remote to local
+#### To get a repository from remote to local for the FIRST time
 this will create a directory in pwd called "test"
 
 
@@ -46,7 +46,7 @@ git push origin
 
 git add "filename"
 
-OR
+#### if you want to add all new files
 
 git add .
 
