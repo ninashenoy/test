@@ -42,3 +42,8 @@ git commit -am "your comments"
 git push origin
 
 
+#### if you want to add a new file
+
+git add "filename" or git add .
+
+
