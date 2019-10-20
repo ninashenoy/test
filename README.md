@@ -44,6 +44,10 @@ git push origin
 
 #### if you want to add a new file
 
-git add "filename" or git add .
+git add "filename"
+
+OR
+
+git add .
 
 
