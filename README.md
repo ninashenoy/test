@@ -20,8 +20,6 @@ this will create a directory in pwd called "test"
 git clone https://www.github.com/ninashenoy/test.git
 
 
-#### After the command executes, you will have a folder in pwd called "test"
-
 
 
 #### To check the status of files
